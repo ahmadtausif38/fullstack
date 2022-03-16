@@ -1,0 +1,24 @@
+.menu{
+background-color:black;
+padding:20px;
+}
+a{
+text-decoration:none;
+color:black;
+background-color:white;
+padding:10px;
+margin:5px;
+}
+td a{
+padding:10px;
+}
+body{
+
+margin:0px;
+padding:0px;
+}
+.content{
+position:relative;
+background-color:pink;
+
+}
